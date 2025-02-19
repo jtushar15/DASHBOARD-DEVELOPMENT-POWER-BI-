@@ -1,5 +1,19 @@
 # DASHBOARD-DEVELOPMENT-POWER-BI TASK-3
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: TUSHAR RAMDAS JADHAV
+
+INTERN ID: CT12KEV
+
+DOMAIN: DATA ANALYSIS
+
+DURATION: 8 WEEKS(January 5th, 2025 to March 5th, 2025.)
+
+MENTOR: NEELA SANTOSH
+
+# Maddhav E- Commerece sales dashbord
+
 This is an E-Commerce Sales Dashboard for Maddhav, displaying various sales and performance metrics visually. Below is a detailed explanation of each sectionThis is an E-Commerce Sales Dashboard for Maddhav, displaying various sales and performance metrics visually. Below is a detailed explanation of each section.
 
 ![Image](https://github.com/user-attachments/assets/d1c611cf-3ffa-4b87-8a52-2e4f563a8f5c)
